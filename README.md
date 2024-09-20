@@ -11,7 +11,7 @@ Tâches à réaliser : Animations et Intégration des Médias
     * Appliquer une transformation CSS sur les images (par exemple : zoom, rotation, ou translation) lors du survol
 2. Intégration des Médias
 * Images :
-    * Utiliser la balise <picture> pour gérer l'affichage des images dans différentes résolutions selon la taille de l'écran
+    * Utiliser la balise <picture> pour gérer l'affichage des images dans différentes résolutions selon la taille de l'écran.
     * Vérifier que les images sont bien responsives, c'est-à-dire qu'elles s'adaptent correctement à différentes tailles d’écran
 * Vidéo :
     * Intégrer une vidéo avec la balise <video>, en utilisant l'attribut poster pour afficher une image avant le démarrage de la vidéo
